@@ -5,7 +5,7 @@ Use the netlify site to understand how response it can be.
 https://reliable-sable-0df1e0.netlify.app/
 
 ## Small Screens
-![image](https://github.com/user-attachments/assets/308ade93-d1cd-4276-87d3-28a1a673a965)
+![image](https://github.com/user-attachments/assets/473fb64b-678b-45f8-ad95-65ca20d1e4f3)
 
 ## Medium Screens
 ![image](https://github.com/user-attachments/assets/b85aac6b-e7fe-45f5-ab66-ec278e9bfb86)
