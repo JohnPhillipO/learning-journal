@@ -1,5 +1,18 @@
 # Getting Started
 A simple learning journal template using semantic HTML and CSS. This shocases my ability to style anything frontend by using my advanced knoweledge of response CSS (CSS Grid) and HTML. This was a solo project provided by scrimba in their **Scrimba Frontend Career Course**.
+
+Use the netlify site to understand how response it can be.
+https://reliable-sable-0df1e0.netlify.app/
+
+## Small Screens
+![image](https://github.com/user-attachments/assets/308ade93-d1cd-4276-87d3-28a1a673a965)
+
+## Medium Screens
+![image](https://github.com/user-attachments/assets/b85aac6b-e7fe-45f5-ab66-ec278e9bfb86)
+
+## Large Screens
+![image](https://github.com/user-attachments/assets/2a67ffbf-7bc1-4b03-a6ab-c892fbec1416)
+
 ```
 npm install
 npm start
