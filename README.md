@@ -1,5 +1,5 @@
 # Getting Started
-Install the dependencies and run the project
+A simple learning journal template using semantic HTML and CSS. This shocases my ability to style anything frontend by using my advanced knoweledge of response CSS (CSS Grid) and HTML. This was a solo project provided by scrimba in their **Scrimba Frontend Career Course**.
 ```
 npm install
 npm start
